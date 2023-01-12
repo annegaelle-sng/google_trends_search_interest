@@ -2,14 +2,16 @@
 
 
 ## Build with: 
-Pandas 
-Bokeh
-Plotly 
-Matplotlib
+<ul>
+    <li> Pandas 
+    <li> Bokeh
+    <li> Plotly 
+    <li> Matplotlib
+</ul> 
 
 
 ## Contact
-Anne-Gaëlle Sng - 'email'
+Anne-Gaëlle Sng - annegaelleandco@gmail.com
 Project Link: https://github.com/annegaelle-sng/google_trends_search_interest
 ## Acknowledgment 
 <ul>
