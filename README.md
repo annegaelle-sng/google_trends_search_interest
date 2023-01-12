@@ -13,6 +13,7 @@
 ## Contact
 <p> Anne-Gaëlle Sng - annegaelleandco@gmail.com </p>
 <p> Project Link: https://github.com/annegaelle-sng/google_trends_search_interest </p>
+
 ## Acknowledgment 
 <ul>
     <li> https://www.kaggle.com/datasets/mustafaadelibrahim/comparing-search-interest-with-google-trends
