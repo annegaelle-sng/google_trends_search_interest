@@ -2,15 +2,18 @@
 
 
 ## Build with: 
-Pandas 
-Bokeh
-Plotly 
-Matplotlib
+<ul>
+    <li> Pandas 
+    <li> Bokeh
+    <li> Plotly 
+    <li> Matplotlib
+</ul> 
 
 
 ## Contact
-Anne-Gaëlle Sng - 'email'
-Project Link: https://github.com/annegaelle-sng/google_trends_search_interest
+<p> Anne-Gaëlle Sng - annegaelleandco@gmail.com </p>
+<p> Project Link: https://github.com/annegaelle-sng/google_trends_search_interest </p>
+
 ## Acknowledgment 
 <ul>
     <li> https://www.kaggle.com/datasets/mustafaadelibrahim/comparing-search-interest-with-google-trends
