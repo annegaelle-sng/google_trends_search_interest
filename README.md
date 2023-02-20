@@ -9,7 +9,10 @@
 This project is an analysis of the popularity of the Kardashian-Jenner family using data from Google Trends. The project aims to understand how often the family members have been searched for on Google over a specified period of time, and to identify patterns and trends in user behavior. The data is collected and analyzed to understand how the popularity of the Kardashians has evolved over time.
 
 
-![interactive_graph_with_plotly](https://user-images.githubusercontent.com/65827751/219992873-6eb987dc-3976-46cb-b6db-de81096cc721.gif){ width="800" height="600" style="display: block; margin: 0 auto" }
+
+https://user-images.githubusercontent.com/65827751/219994179-4e5c7daf-f666-4377-b953-06333c6798fb.mov
+
+*Example of Interactive Graph with Plotly*
 
     
 ## Build with: 
